@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Damián Emmanuel Lambrecht</h1>
-<h3 align="center">Soy desarrollador frontend en busca de crecimiento tecnico y profesional</h3>
+<h3 align="center">Soy Técnico Universitario en Programación en busca de crecimiento profesional</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
